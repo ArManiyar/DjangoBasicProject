@@ -1,3 +1,7 @@
+<pre>
+  Django Basic Project
+</pre>
+<pre>
 This website allows user who is photographer to uplaod there photos by filling up a form which is displayed on the home page of the website.
 
 This website as functionality of SignUp and SignIn and user can contact us by filling up a form which response is been stored into the database.
@@ -6,7 +10,6 @@ SQLite3 Database is been used.
 Whenever the photo is uploaded by the user to database we call it as media.
 all this images will be in media folder
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-<pre>
 Step 01: To make project called photography we write command into terminal as: django-admin startproject photography
 Step 02: To make app called photographer for the project we use command:       python manage.py startapp photographer
 Step 03: Set up URL dispatching or pipeline for the peoject.
